@@ -34,8 +34,8 @@ This repository contains Excel spreadsheet templates for monitoring PhD producti
 
 1. Task: Clearly describe each task you need to complete.
 2. Priority: Assign a priority level to each task (e.g., high, medium, low) to help you focus on what's most important.
-3. Estimated (Time): Estimate how long you think each task will take to complete.
-4. Actual (Time): Track how long each task actually took to complete.
+3. Estimated Time (h): Estimate how long you think each task will take to complete.
+4. Actual Tine (h): Track how long each task actually took to complete.
 5. Status: The current state of each task (e.g., not started, in progress, completed, on hold).
 6. Progress: Track your progress toward each task (i.e., percentage completed).
 7. Deliverables: List the main outputs or results you expect from each task. These deliverables should be tangible and measurable, which will make it easier to assess your progress.
@@ -46,4 +46,5 @@ This repository contains Excel spreadsheet templates for monitoring PhD producti
 
 ### Special Features
 
-None at this time.
+1. When you enter an estimated time for a task, a data bar will appear.  This data bar indicates the portion of the week's total estimated time that you will need to dedicate to the task.
+2. When you enter an actual time, a data bar will appear.  This data bar indicates the portion of the week's total actual time that you dedicated to the task.
